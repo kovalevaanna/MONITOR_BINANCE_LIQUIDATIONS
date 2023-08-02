@@ -6,5 +6,5 @@ INSTRUCTION:
 FOR EXAMPLE: BTCUSDT,ETHUSDT,CfxUSdt
 You can enter both uppercase and lowercase letters.
 ⚫ The data is saved to a file (binance_liqquidation.csv) located in the same folder as the program. All currency pairs are written to the file. Using a filter does not affect writing to a file.
-⚫ Input the amount of liquidations in dollars in the filter under the "F.A.Q" button. If the "all" value in the liquidation line exceeds the entered value, the liquidation line will be highlighted in a different color.
+⚫ Input the amount of liquidations in dollars in the filter under the "F.A.Q" button. If the "ALL" value in the liquidation line exceeds the entered value, the liquidation line will be highlighted in a different color.
 
